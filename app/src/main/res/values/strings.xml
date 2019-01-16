@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreenDot</string>
+    <string name="error_msg">Please input a number from 0-9 !!!</string>
+</resources>
